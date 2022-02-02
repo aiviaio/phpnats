@@ -1,5 +1,5 @@
 {
-  "name": "aiviaio/nats",
+  "name": "aiviaio/phpnats",
   "description": "A nats.io client in PHP",
   "type": "library",
   "minimum-stability": "dev",
